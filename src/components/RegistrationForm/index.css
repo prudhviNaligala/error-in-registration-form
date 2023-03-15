@@ -1,0 +1,31 @@
+.registration-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 400px;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  height: 300px;
+  padding: 0px 50px 0px 50px;
+  border-radius: 8px;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+}
+.input-container {
+  width: 300px;
+  margin-bottom: 10px;
+}
+.success-image {
+  height: 60px;
+  width: 60px;
+  margin-left: 35px;
+}
